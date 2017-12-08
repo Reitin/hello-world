@@ -1,2 +1,2 @@
-pwd
-whoami
+g++ -o scndSpectrum.out scndSpectrumC_1237_rg04ap.c -lfftw3 -lfftw3f -lfftw3l
+echo "Ok"
